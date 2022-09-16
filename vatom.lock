@@ -1,0 +1,14 @@
+{
+  "id": "example.react",
+  "name": "Example React",
+  "version": "1.0.0",
+  "beta": true,
+  "description": "Shows how to create a React panel within a plugin.",
+  "longDescription": ".",
+  "configuration": ".",
+  "category": "Developer Tools",
+  "businessId": ".",
+  "price": 0,
+  "releaseNotes": ".",
+  "entrypoint": ""
+}
